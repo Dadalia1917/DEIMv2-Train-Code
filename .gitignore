@@ -7,14 +7,6 @@ outputs/
 output/
 *.log
 
-# 预训练模型权重（太大，请从官方链接下载）
-# 如需上传权重，可以使用 Git LFS 或删除下面的规则
-*.pth
-*.pt
-
-# 允许 backbone 权重
-!ckpts/*.pt
-!ckpts/*.pth
 
 # Python
 __pycache__/
