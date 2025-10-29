@@ -1,0 +1,7 @@
+train: D:/yolov10-main/datasets/Data/train/images
+val: D:/yolov10-main/datasets/Data/val/images
+
+nc: 4
+names: ['recyclable waste', 'hazardous waste', 'kitchen waste', 'other waste']
+
+
